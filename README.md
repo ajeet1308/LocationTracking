@@ -1,7 +1,5 @@
 # LocationTracking
 
-# Live-Tracking-Analytics
-
 # Create a Virtual Environment
 To create a virtual environment named `venv`, you can use the following command:
 
